@@ -1,5 +1,5 @@
 # Rust
 
-## Code, snippets etc.
+## Exercises, snippets etc.
 
 Rust-cv, serde, structopt, pretty-env-logger, ... 
