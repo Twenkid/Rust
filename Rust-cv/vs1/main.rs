@@ -19,12 +19,9 @@ use serde_json::Result;
 
 fn main() {
  let mut vs: cv_sfm::VSlamSettings; 
- //vs.default();
  vs = VSlamSettings::default();
-       //let j = serde_json::to_string(&vs)?; //error
  let s = serde_json::to_string(&vs); 
-
- //Print, write to a file, or send to an HTTP server.
+       //Print, write to a file, or send to an HTTP server.
  println!("{:?}", s);
- //Save to file, add to the structop of the vslam-playground etc. 
+      //Save to file, add to the structop of the vslam-playground etc. 
 }
