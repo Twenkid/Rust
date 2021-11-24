@@ -1,7 +1,5 @@
 FAILED to reconstruct from 4 images from "Вдумчиво обо всем" vlog.
 F:\rustcv\cv\vslam-sandbox>cmd /v /c "set RUST_LOG=trace&& F:\rustcv\cv\target\debug\vslam-sandbox.exe --output P:\ P:\1.jpg P:\2.jpg P:\3.jpg P:\4.jpg
-fn main() vslam tutorial four?
-vslam.cvr, vslam-settings.json, 0
 P:\1.jpg
 P:\2.jpg
 P:\3.jpg
